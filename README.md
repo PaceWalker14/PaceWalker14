@@ -1,7 +1,18 @@
-## Hi there 👋
+## Hi, I'm Connor 👋
 
-<!--
-**PaceWalker14/PaceWalker14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science student  
+🚀 Learning Java, Android & Web Dev  
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=PaceWalker14&show_icons=true&theme=dark)
+
+### 🔥 Streak
+![Streak](https://streak-stats.demolab.com?user=PaceWalker14&theme=dark)
+
+### 🧠 Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaceWalker14&layout=compact&theme=dark)
+
+
 
 Here are some ideas to get you started:
 
