@@ -15,3 +15,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/PaceWalker14?style=social)
 ![GitHub repo count](https://img.shields.io/github/repos/PaceWalker14?style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/PaceWalker14?style=social)
+![GitHub repo count](https://img.shields.io/github/repos/PaceWalker14?style=flat-square)
+![Top Languages](https://img.shields.io/github/languages/top/PaceWalker14?style=flat-square)
