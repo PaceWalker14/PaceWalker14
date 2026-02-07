@@ -30,25 +30,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![Connor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaceWalker14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaceWalker14&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PaceWalker14&theme=tokyonight&hide_border=true)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=PaceWalker14&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
 
 ## 📈 Contribution Graph
 
