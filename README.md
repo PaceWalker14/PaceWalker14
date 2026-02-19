@@ -9,10 +9,7 @@
 
 ## 🚀 About Me
 
-- 💻 **Computer Science Student** with a focus on mobile and web ecosystems.
-- 📱 Currently mastering **Java** and **Android Development**.
-- 🌐 Building responsive applications using **React** and **Node.js**.
-- 💡 Passionate about clean code and efficient network security.
+- 💻 **Computer Science Student** 
 
 ## 🛠️ Tech Stack
 
@@ -52,6 +49,5 @@
   
 **💬 "Code is like humor. When you have to explain it, it's bad." – Cory House**
 
-*Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out!* 😊
 
 </div>
