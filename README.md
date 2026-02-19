@@ -14,12 +14,6 @@
 - 🌐 Building responsive applications using **React** and **Node.js**.
 - 💡 Passionate about clean code and efficient network security.
 
-## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaceWalker14&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaceWalker14&layout=compact&theme=tokyo-night" />
-</div>
-
 ## 🛠️ Tech Stack
 
 ### Languages & Core
@@ -34,7 +28,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### IDEs & Network Analysis
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
