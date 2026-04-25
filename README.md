@@ -43,8 +43,9 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| **AnalyticClarity** | A web application for data analytics and business clarity | React, JavaScript | [🔗 Live Site](https://analyticclarity.com) |
 | **Learnership Portal** | A full-stack portal for managing learnership programmes, hosted on Azure | React, Node.js, Azure | [🔗 Live Site](https://learnership-portal-fxd3hwdcehaxhgb3.southafricanorth-01.azurewebsites.net) |
+| **AnalyticClarity** | A web application for data analytics and business clarity | React, JavaScript | [🔗 Live Site](https://analyticclarity.com) |
+
 
 ---
 
