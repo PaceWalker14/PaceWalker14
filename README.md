@@ -35,6 +35,46 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 
+
+
+## 🗂️ Projects
+
+### 🌐 Software / Web Applications
+
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| **AnalyticClarity** | A web application for data analytics and business clarity | React, JavaScript | [🔗 Live Site](https://analyticclarity.com) |
+| **Learnership Portal** | A full-stack portal for managing learnership programmes, hosted on Azure | React, Node.js, Azure | [🔗 Live Site](https://learnership-portal-fxd3hwdcehaxhgb3.southafricanorth-01.azurewebsites.net) |
+
+---
+
+### 📱 Mobile Applications
+
+| Project | Description | Tech Stack | Repo |
+|--------|-------------|------------|------|
+| **Surrogate Shopper** | Android app connecting community volunteers with people who need errands run. Features real-time messaging, user role management, and a PHP/MySQL backend. | Java, XML, PHP, MySQL (LAMP) | [🔗 GitHub](https://github.com/PaceWalker14/Surrogate-Shopper) |
+
+---
+
+### 🤖 AI & Algorithms
+
+| Project | Description | Tech Stack | Repo |
+|--------|-------------|------------|------|
+| **Snake AI** | An autonomous AI agent that plays Snake using A\* pathfinding, Manhattan distance heuristics, and predictive collision avoidance to outlast opponents. | Java | [🔗 GitHub](https://github.com/PaceWalker14/Snake-AI) |
+
+---
+
+### ⚙️ Data Structures & Problem Solving
+
+| Project | Description | Tech Stack | Repo |
+|--------|-------------|------------|------|
+| **BFS Maze Solver** | Finds the shortest path through a maze using Breadth-First Search on a 2D grid. | C++ | [🔗 GitHub](https://github.com/PaceWalker14/BFS-maze-solver) |
+| **16×16 Sudoku Solver** | Solves 16×16 Sudoku puzzles using optimised backtracking with a "fewest valid options first" heuristic for improved performance. | C++ | [🔗 GitHub](https://github.com/PaceWalker14/16x16-Sudoku-Solver-Optimized-Backtracking) |
+
+
+
+
+
 ## 📈 Contribution Graph
 
 [![Connor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PaceWalker14&theme=tokyo-night&hide_border=true)](https://github.com/PaceWalker14)
