@@ -1,17 +1,17 @@
-# Hi there, I'm Connor 👋
+# Hi, I'm Connor 👋
 
 <div align="center">
-  
+
 [![GitHub followers](https://img.shields.io/github/followers/PaceWalker14?label=Followers&style=for-the-badge&logo=github&color=blue)](https://github.com/PaceWalker14)
 [![Profile Views](https://komarev.com/ghpvc/?username=PaceWalker14&style=for-the-badge&color=brightgreen)](https://github.com/PaceWalker14)
 
 </div>
 
-## 🚀 About Me
+## About Me
 
-- 💻 **Computer Science Student** 
+I'm a Computer Science student who likes pulling systems apart to see how they work — whether that's an AI agent finding its way through a maze, a mobile app talking to a backend, or a full-stack site holding together under real users. Most of what's below started as a "can I actually build this" question.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Core
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -34,45 +34,36 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
+## Projects
 
-
-
-## 🗂️ Projects
-
-### 🌐 Software / Web Applications
+### Software / Web Applications
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| **Learnership Portal** | A full-stack portal for managing learnership programmes, hosted on Azure | React, Node.js, Azure | [🔗 Live Site](https://learnership-portal-fxd3hwdcehaxhgb3.southafricanorth-01.azurewebsites.net) |
-| **AnalyticClarity** | A web application for data analytics and business clarity | React, JavaScript | [🔗 Live Site](https://analyticclarity.com) |
+| **Learnership Portal** | Full-stack portal for managing learnership programmes, deployed on Azure | React, Node.js, Azure | [Live Site](https://learnership-portal-fxd3hwdcehaxhgb3.southafricanorth-01.azurewebsites.net) |
+| **AnalyticClarity** | Web app for data analytics and business clarity | React, JavaScript | [Live Site](https://analyticclarity.com) |
 
-
----
-
-### 📱 Mobile Applications
+### Mobile Applications
 
 | Project | Description | Tech Stack | Repo |
 |--------|-------------|------------|------|
-| **Surrogate Shopper** | Android app connecting community volunteers with people who need errands run. Features real-time messaging, user role management, and a PHP/MySQL backend. | Java, XML, PHP, MySQL (LAMP) | [🔗 GitHub](https://github.com/PaceWalker14/Surrogate-Shopper) |
+| **Surrogate Shopper** | Android app connecting community volunteers with people who need errands run — real-time messaging, role management, PHP/MySQL backend | Java, XML, PHP, MySQL (LAMP) | [GitHub](https://github.com/PaceWalker14/Surrogate-Shopper) |
 
----
-
-### 🤖 AI & Algorithms
+### AI & Algorithms
 
 | Project | Description | Tech Stack | Repo |
 |--------|-------------|------------|------|
-| **Snake AI** | An autonomous AI agent that plays Snake using A\* pathfinding, Manhattan distance heuristics, and predictive collision avoidance to outlast opponents. | Java | [🔗 GitHub](https://github.com/PaceWalker14/Snake-AI) |
+| **Snake AI** | Autonomous agent that plays Snake using A* pathfinding, Manhattan distance heuristics, and predictive collision avoidance to outlast opponents | Java | [GitHub](https://github.com/PaceWalker14/Snake-AI) |
 
----
-
-### ⚙️ Data Structures & Problem Solving
+### Data Structures & Problem Solving
 
 | Project | Description | Tech Stack | Repo |
 |--------|-------------|------------|------|
-| **BFS Maze Solver** | Finds the shortest path through a maze using Breadth-First Search on a 2D grid. | C++ | [🔗 GitHub](https://github.com/PaceWalker14/BFS-maze-solver) |
-| **16×16 Sudoku Solver** | Solves 16×16 Sudoku puzzles using optimised backtracking with a "fewest valid options first" heuristic for improved performance. | C++ | [🔗 GitHub](https://github.com/PaceWalker14/16x16-Sudoku-Solver-Optimized-Backtracking) |
+| **BFS Maze Solver** | Finds the shortest path through a maze using breadth-first search on a 2D grid | C++ | [GitHub](https://github.com/PaceWalker14/BFS-maze-solver) |
+| **16×16 Sudoku Solver** | Solves 16×16 Sudoku puzzles using optimised backtracking with a fewest-valid-options-first heuristic | C++ | [GitHub](https://github.com/PaceWalker14/16x16-Sudoku-Solver-Optimized-Backtracking) |
 
-## 🔗 Connect with Me
+## Connect
+
 <div align="left">
 <a href="https://www.linkedin.com/in/connor-pace-3a22952b3/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/connor_pace_hi/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -82,8 +73,7 @@
 ---
 
 <div align="center">
-  
-**💬 "Code is like humor. When you have to explain it, it's bad." – Cory House**
 
+**"Code is like humor. When you have to explain it, it's bad." – Cory House**
 
 </div>
