@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a Computer Science student who likes pulling systems apart to see how they work — whether that's an AI agent finding its way through a maze, a mobile app talking to a backend, or a full-stack site holding together under real users. Most of what's below started as a "can I actually build this" question.
+Computer science student who loves an intresting project to work on and happyly help others who ask.
 
 ## Tech Stack
 
@@ -74,6 +74,5 @@ I'm a Computer Science student who likes pulling systems apart to see how they w
 
 <div align="center">
 
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
 
 </div>
