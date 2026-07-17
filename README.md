@@ -1,18 +1,22 @@
-# Hi, I'm Connor 👋
+# Hi, I'm Connor
+## Connect
+<div align="left">
+<a href="https://www.linkedin.com/in/connor-pace-3a22952b3/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/connor_pace_hi/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:connorpace14@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
 <div align="center">
-
 [![GitHub followers](https://img.shields.io/github/followers/PaceWalker14?label=Followers&style=for-the-badge&logo=github&color=blue)](https://github.com/PaceWalker14)
 [![Profile Views](https://komarev.com/ghpvc/?username=PaceWalker14&style=for-the-badge&color=brightgreen)](https://github.com/PaceWalker14)
 
 </div>
-
 ## About Me
-
-Computer science student who loves an intresting project to work on and happyly help others who ask.
+Currently a cumpter science student at wits
+Love to help people with any intresting projects they have 
+Hobbies are rock climbing, videos games, tv shows and pool. 
 
 ## Tech Stack
-
 ### Languages & Core
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -32,6 +36,7 @@ Computer science student who loves an intresting project to work on and happyly 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
 
 ## Projects
 
@@ -61,19 +66,6 @@ Computer science student who loves an intresting project to work on and happyly 
 | **BFS Maze Solver** | Finds the shortest path through a maze using breadth-first search on a 2D grid | C++ | [GitHub](https://github.com/PaceWalker14/BFS-maze-solver) |
 | **16×16 Sudoku Solver** | Solves 16×16 Sudoku puzzles using optimised backtracking with a fewest-valid-options-first heuristic | C++ | [GitHub](https://github.com/PaceWalker14/16x16-Sudoku-Solver-Optimized-Backtracking) |
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-## Connect
-
-<div align="left">
-<a href="https://www.linkedin.com/in/connor-pace-3a22952b3/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/connor_pace_hi/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:connorpace14@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
 
 ---
 
