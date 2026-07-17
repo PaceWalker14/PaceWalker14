@@ -18,7 +18,9 @@
 
 ## About Me
 Currently a cumpter science student at wits
+
 Love to help people with any intresting projects they have 
+
 Hobbies are rock climbing, videos games, tv shows and pool. 
 
 
