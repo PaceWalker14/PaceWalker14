@@ -1,4 +1,5 @@
 # Hi, I'm Connor
+
 ## Connect
 <div align="left">
 <a href="https://www.linkedin.com/in/connor-pace-3a22952b3/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -7,6 +8,7 @@
 </div>
 
 <div align="center">
+  
 [![GitHub followers](https://img.shields.io/github/followers/PaceWalker14?label=Followers&style=for-the-badge&logo=github&color=blue)](https://github.com/PaceWalker14)
 [![Profile Views](https://komarev.com/ghpvc/?username=PaceWalker14&style=for-the-badge&color=brightgreen)](https://github.com/PaceWalker14)
 
