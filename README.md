@@ -9,6 +9,7 @@
 </div>
 
 <div align="center">
+
   
 [![GitHub followers](https://img.shields.io/github/followers/PaceWalker14?label=Followers&style=for-the-badge&logo=github&color=blue)](https://github.com/PaceWalker14)
 [![Profile Views](https://komarev.com/ghpvc/?username=PaceWalker14&style=for-the-badge&color=brightgreen)](https://github.com/PaceWalker14)
@@ -19,6 +20,7 @@
 Currently a cumpter science student at wits
 Love to help people with any intresting projects they have 
 Hobbies are rock climbing, videos games, tv shows and pool. 
+
 
 ## Tech Stack
 ### Languages & Core
@@ -40,6 +42,8 @@ Hobbies are rock climbing, videos games, tv shows and pool.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+
 
 
 ## Projects
