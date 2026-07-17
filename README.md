@@ -1,8 +1,6 @@
 # Hi, I'm Connor
 
 <div align="center">
-  
-<div align="left">
 <a href="https://www.linkedin.com/in/connor-pace-3a22952b3/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/connor_pace_hi/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:connorpace14@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
