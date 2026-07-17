@@ -61,6 +61,12 @@ Computer science student who loves an intresting project to work on and happyly 
 | **BFS Maze Solver** | Finds the shortest path through a maze using breadth-first search on a 2D grid | C++ | [GitHub](https://github.com/PaceWalker14/BFS-maze-solver) |
 | **16×16 Sudoku Solver** | Solves 16×16 Sudoku puzzles using optimised backtracking with a fewest-valid-options-first heuristic | C++ | [GitHub](https://github.com/PaceWalker14/16x16-Sudoku-Solver-Optimized-Backtracking) |
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## Connect
 
 <div align="left">
