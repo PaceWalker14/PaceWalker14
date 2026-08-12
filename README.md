@@ -42,7 +42,9 @@ Hobbies are rock climbing, videos games, tv shows and pool.
 
 ### IDEs & Network Analysis
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 
@@ -50,18 +52,26 @@ Hobbies are rock climbing, videos games, tv shows and pool.
 
 ## Projects
 
-### Software / Web Applications
+### Software
+
+| Project | Description | Tech Stack | Repo |
+|--------|-------------|------------|------|
+| **Tap Launcher (Mic-Tap)** | Desktop app that listens through your microphone for finger taps on a surface and turns tap patterns into actions — launching apps, media and volume control, voice typing and more, with per-surface calibration and a live tap radar | Python, Tkinter, NumPy, SciPy | [GitHub](https://github.com/PaceWalker14/Mic-Tap) |
+
+### Web Applications
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
 | **Learnership Portal** | Full-stack portal for managing learnership programmes, deployed on Azure | React, Node.js, Azure | [Live Site](https://learnership-portal-fxd3hwdcehaxhgb3.southafricanorth-01.azurewebsites.net) |
 | **AnalyticClarity** | Web app for data analytics and business clarity | React, JavaScript | [Live Site](https://analyticclarity.com) |
+| **Climbing Site** | Scroll-driven animation experiment — a pinned cinematic hero, staggered parallax reveals, and scroll-linked counters, with no framework or build step | HTML, CSS, JavaScript, GSAP | [Live Site](https://pacewalker14.github.io/Climbing-Site/) |
 
 ### Mobile Applications
 
 | Project | Description | Tech Stack | Repo |
 |--------|-------------|------------|------|
 | **Surrogate Shopper** | Android app connecting community volunteers with people who need errands run — real-time messaging, role management, PHP/MySQL backend | Java, XML, PHP, MySQL (LAMP) | [GitHub](https://github.com/PaceWalker14/Surrogate-Shopper) |
+| **Testimony Journal** | Cross-platform faith journalling app (iOS, Android, web) — daily habit tracking, journal entries with scripture lookup and voice notes, prayer requests and shareable milestone cards, in a hand-drawn notebook UI | React Native, Expo, TypeScript, Zustand, Supabase | [GitHub](https://github.com/PaceWalker14/My-Testimony) |
 
 ### AI & Algorithms
 
