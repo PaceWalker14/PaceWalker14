@@ -47,6 +47,9 @@ Hobbies are rock climbing, videos games, tv shows and pool.
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
+## Certifications
+- **Google Cybersecurity Professional Certificate**, Google (February 2025)
+- **Introduction to AI**, Google
 
 
 
@@ -65,19 +68,22 @@ Hobbies are rock climbing, videos games, tv shows and pool.
 | **Learnership Portal** | Full-stack portal for managing learnership programmes, deployed on Azure | React, Node.js, Azure | [Live Site](https://learnership-portal-fxd3hwdcehaxhgb3.southafricanorth-01.azurewebsites.net) |
 | **AnalyticClarity** | Web app for data analytics and business clarity | React, JavaScript | [Live Site](https://analyticclarity.com) |
 | **Climbing Site** | Scroll-driven animation experiment — a pinned cinematic hero, staggered parallax reveals, and scroll-linked counters, with no framework or build step | HTML, CSS, JavaScript, GSAP | [Live Site](https://pacewalker14.github.io/Climbing-Site/) |
+| **Bible Versions** | 3D ring of the seven most popular English Bible translations — scroll or swipe to turn it, then open any Bible to compare its history, reading level, strengths and weaknesses. Built almost entirely in CSS with scroll-driven animations, 3D transforms and the Popover API | HTML, CSS, JavaScript | [Live Site](https://pacewalker14.github.io/BibleVersions/) |
 
 ### Mobile Applications
 
 | Project | Description | Tech Stack | Repo |
 |--------|-------------|------------|------|
 | **Surrogate Shopper** | Android app connecting community volunteers with people who need errands run — real-time messaging, role management, PHP/MySQL backend | Java, XML, PHP, MySQL (LAMP) | [GitHub](https://github.com/PaceWalker14/Surrogate-Shopper) |
-| **Testimony Journal** | Cross-platform faith journalling app (iOS, Android, web) — daily habit tracking, journal entries with scripture lookup and voice notes, prayer requests and shareable milestone cards, in a hand-drawn notebook UI | React Native, Expo, TypeScript, Zustand, Supabase | [GitHub](https://github.com/PaceWalker14/My-Testimony) |
+| **Testimony Journal** | Cross-platform faith journalling app (iOS, Android, web) — daily habit tracking, journal entries with scripture lookup and voice notes, prayer requests and shareable milestone cards, in a hand-drawn notebook UI | React Native, Expo, TypeScript, Zustand, Supabase | [Website](https://pacewalker14.github.io/Testimony-Journal/) |
 
 ### AI & Algorithms
 
 | Project | Description | Tech Stack | Repo |
 |--------|-------------|------------|------|
 | **Snake AI** | Autonomous agent that plays Snake using A* pathfinding, Manhattan distance heuristics, and predictive collision avoidance to outlast opponents | Java | [GitHub](https://github.com/PaceWalker14/Snake-AI) |
+| **Soccer AI** | Five-player soccer team built for a university league of about 250 teams — predicts where the ball is going using the simulator's own physics and scores every pass, carry and shot by the chance the next goal is ours, deciding within 20 ms a tick | Python | [GitHub](https://github.com/PaceWalker14/Soccer_Project) |
+| **Short Order Scheduler** | CPU scheduler dressed up as a restaurant kitchen (cooks are cores, orders are processes), balancing completion, response time, turnaround, switching cost and fairness across ten different kitchen scenarios | Python | [GitHub](https://github.com/PaceWalker14/Short-Order-Project) |
 
 ### Data Structures & Problem Solving
 
