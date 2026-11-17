@@ -50,7 +50,7 @@ Hobbies are rock climbing, videos games, tv shows and pool.
 ## Certifications
 - **Google Cybersecurity Professional Certificate**, Google (February 2025)
 - **Introduction to AI**, Google
-
+**AI Foundations: How Artificial Intelligence Works**, IBM
 
 
 ## Projects
