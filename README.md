@@ -57,40 +57,30 @@ Hobbies are rock climbing, videos games, tv shows and pool.
 
 ### Software
 
-| Project | Description | Tech Stack | Repo |
-|--------|-------------|------------|------|
-| **Tap Launcher (Mic-Tap)** | Desktop app that listens through your microphone for finger taps on a surface and turns tap patterns into actions — launching apps, media and volume control, voice typing and more, with per-surface calibration and a live tap radar | Python, Tkinter, NumPy, SciPy | [GitHub](https://github.com/PaceWalker14/Mic-Tap) |
+- **Tap Launcher (Mic-Tap)**: Desktop app that listens through your microphone for finger taps on a surface and turns tap patterns into actions — launching apps, media and volume control, voice typing and more, with per-surface calibration and a live tap radar
 
 ### Web Applications
 
-| Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| **Learnership Portal** | Full-stack portal for managing learnership programmes, deployed on Azure | React, Node.js, Azure | [Live Site](https://learnership-portal-fxd3hwdcehaxhgb3.southafricanorth-01.azurewebsites.net) |
-| **AnalyticClarity** | Web app for data analytics and business clarity | React, JavaScript | [Live Site](https://analyticclarity.com) |
-| **Climbing Site** | Scroll-driven animation experiment — a pinned cinematic hero, staggered parallax reveals, and scroll-linked counters, with no framework or build step | HTML, CSS, JavaScript, GSAP | [Live Site](https://pacewalker14.github.io/Climbing-Site/) |
-| **Bible Versions** | 3D ring of the seven most popular English Bible translations — scroll or swipe to turn it, then open any Bible to compare its history, reading level, strengths and weaknesses. Built almost entirely in CSS with scroll-driven animations, 3D transforms and the Popover API | HTML, CSS, JavaScript | [Live Site](https://pacewalker14.github.io/BibleVersions/) |
+- **[Learnership Portal](https://learnership-portal-fxd3hwdcehaxhgb3.southafricanorth-01.azurewebsites.net)**: Full-stack portal for managing learnership programmes, deployed on Azure
+- **[AnalyticClarity](https://analyticclarity.com)**: Web app for data analytics and business clarity
+- **[Climbing Site](https://pacewalker14.github.io/Climbing-Site/)**: Scroll-driven animation experiment — a pinned cinematic hero, staggered parallax reveals, and scroll-linked counters, with no framework or build step
+- **[Bible Versions](https://pacewalker14.github.io/BibleVersions/)**: 3D ring of the seven most popular English Bible translations — scroll or swipe to turn it, then open any Bible to compare its history, reading level, strengths and weaknesses. Built almost entirely in CSS with scroll-driven animations, 3D transforms and the Popover API
 
 ### Mobile Applications
 
-| Project | Description | Tech Stack | Repo |
-|--------|-------------|------------|------|
-| **Surrogate Shopper** | Android app connecting community volunteers with people who need errands run — real-time messaging, role management, PHP/MySQL backend | Java, XML, PHP, MySQL (LAMP) | [GitHub](https://github.com/PaceWalker14/Surrogate-Shopper) |
-| **Testimony Journal** | Cross-platform faith journalling app (iOS, Android, web) — daily habit tracking, journal entries with scripture lookup and voice notes, prayer requests and shareable milestone cards, in a hand-drawn notebook UI | React Native, Expo, TypeScript, Zustand, Supabase | [Website](https://pacewalker14.github.io/Testimony-Journal/) |
+- **Surrogate Shopper**: Android app connecting community volunteers with people who need errands run — real-time messaging, role management, PHP/MySQL backend
+- **[Testimony Journal](https://pacewalker14.github.io/Testimony-Journal/)**: Cross-platform faith journalling app (iOS, Android, web) — daily habit tracking, journal entries with scripture lookup and voice notes, prayer requests and shareable milestone cards, in a hand-drawn notebook UI
 
 ### AI & Algorithms
 
-| Project | Description | Tech Stack | Repo |
-|--------|-------------|------------|------|
-| **Snake AI** | Autonomous agent that plays Snake using A* pathfinding, Manhattan distance heuristics, and predictive collision avoidance to outlast opponents | Java | [GitHub](https://github.com/PaceWalker14/Snake-AI) |
-| **Soccer AI** | Five-player soccer team built for a university league of about 250 teams — predicts where the ball is going using the simulator's own physics and scores every pass, carry and shot by the chance the next goal is ours, deciding within 20 ms a tick | Python | [GitHub](https://github.com/PaceWalker14/Soccer_Project) |
-| **Short Order Scheduler** | CPU scheduler dressed up as a restaurant kitchen (cooks are cores, orders are processes), balancing completion, response time, turnaround, switching cost and fairness across ten different kitchen scenarios | Python | [GitHub](https://github.com/PaceWalker14/Short-Order-Project) |
+- **Snake AI**: Autonomous agent that plays Snake using A* pathfinding, Manhattan distance heuristics, and predictive collision avoidance to outlast opponents
+- **Soccer AI**: Five-player soccer team built for a university league of about 250 teams — predicts where the ball is going using the simulator's own physics and scores every pass, carry and shot by the chance the next goal is ours, deciding within 20 ms a tick
+- **Short Order Scheduler**: CPU scheduler dressed up as a restaurant kitchen (cooks are cores, orders are processes), balancing completion, response time, turnaround, switching cost and fairness across ten different kitchen scenarios
 
 ### Data Structures & Problem Solving
 
-| Project | Description | Tech Stack | Repo |
-|--------|-------------|------------|------|
-| **BFS Maze Solver** | Finds the shortest path through a maze using breadth-first search on a 2D grid | C++ | [GitHub](https://github.com/PaceWalker14/BFS-maze-solver) |
-| **16×16 Sudoku Solver** | Solves 16×16 Sudoku puzzles using optimised backtracking with a fewest-valid-options-first heuristic | C++ | [GitHub](https://github.com/PaceWalker14/16x16-Sudoku-Solver-Optimized-Backtracking) |
+- **BFS Maze Solver**: Finds the shortest path through a maze using breadth-first search on a 2D grid
+- **16×16 Sudoku Solver**: Solves 16×16 Sudoku puzzles using optimised backtracking with a fewest-valid-options-first heuristic
 
 
 ---
