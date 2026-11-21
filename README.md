@@ -16,6 +16,8 @@
 
 </div>
 
+</div>
+
 ## About Me
 Currently a cumpter science student at wits
 
